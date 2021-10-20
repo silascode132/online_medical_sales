@@ -8,4 +8,8 @@
             30
         </session-timeout>
     </session-config>
+    <display-name>online_medical_sales</display-name>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
 </web-app>
